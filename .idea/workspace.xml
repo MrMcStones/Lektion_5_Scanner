@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e96fd07-9133-436f-b7b5-47d73caa5a6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/rasmus/scanner/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/rasmus/scanner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rasmus/scanner/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +57,7 @@
       <updated>1695112303785</updated>
       <workItem from="1695112304839" duration="5545000" />
       <workItem from="1695118208983" duration="20000" />
-      <workItem from="1695121767977" duration="1063000" />
+      <workItem from="1695121767977" duration="1777000" />
     </task>
     <servers />
   </component>
